@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FourClickers</string>
+    <string name="tlstr" />
+    <string name="trstr" />
+    <string name="blstr" />
+    <string name="brstr" />
+    <string name="restart">Reset</string>
+    <string name="four_clickers_app">Four Clickers App!</string>
+</resources>

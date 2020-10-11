@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="topleft" type="id" />
+    <item name="topright" type="id" />
+    <item name="bottomleft" type="id" />
+    <item name="bottomright" type="id" />
+    <item name="top_left" type="id" />
+    <item name="top_left_button" type="id" />
+    <item name="bottom_left_button" type="id" />
+    <item name="top_right_button" type="id" />
+    <item name="bottom_right_button" type="id" />
+    <item name="editText" type="id" />
+</resources>
